@@ -11,3 +11,6 @@ Ce projet a pour objectif de prédire si le revenu annuel d'une personne dépass
 ## Dataset
 Le dataset utilisé est "Adult income" disponible sur le " https://www.kaggle.com/datasets/wenruliu/adult-income-dataset "
 
+## Installation
+
+pip install pandas scikit-learn
